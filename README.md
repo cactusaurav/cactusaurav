@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @cactusauravv
-- 👀 I’m interested in Graphic designing & Video editing.
-- 🌱 I’m currently learning Python
-- 📫 You can contact me via Mail or linkedIn
-- 😄 Pronouns: He/Him
+### 👋 Hi, I’m @cactusaurav
 
-
-<!---- 💞️- ⚡  I’m looking to collaborate on ...
-cactusauravv/cactusauravv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧑🏿‍💻 Designer & Developer </br>
+👨🏼‍🎓Studied Computer Science </br>
+💭Learning [Introduction to Data Science with Python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python) </br>
