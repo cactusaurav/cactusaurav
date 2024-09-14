@@ -1,6 +1,6 @@
 # Hi 👋, I’m @cactusaurav
 
-🧑🏿‍💻 Designer & Developer </br>
+🧑🏿‍💻 Data science, AI and Machine learning </br>
 👨🏼‍🎓Studied Computer Science </br>
 💭Learning [Introduction to Data Science with Python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python) </br>
 🪄[Portfolio](https://cactusaurav.github.io/cactusaurav-portfolio/cactusaurav.html)
