@@ -2,5 +2,5 @@
 
 🧑🏿‍💻 Data science, AI and Machine learning </br>
 👨🏼‍🎓Studied Computer Science </br>
-💭Learning [Introduction to Data Science with Python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python) </br>
+💭Learning [Introduction to Data Science with Python]([https://www.coursera.org/learn/foundations-data]) </br>
 🪄[Portfolio](https://cactusaurav.github.io/cactusaurav-portfolio/cactusaurav.html)
