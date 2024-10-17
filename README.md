@@ -2,5 +2,5 @@
 
 🧑🏿‍💻 Data science, AI and Machine learning </br>
 👨🏼‍🎓Studied Computer Science </br>
-💭Learning [Introduction to Data Science with Python]([https://www.coursera.org/learn/foundations-data]) </br>
+💭Learning C programming language
 🪄[Portfolio](https://saurav10.com.np/)
